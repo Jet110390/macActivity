@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2Activity</string>
+    <string name="first_screen">First_Screen</string>
+    <string name="second_screen">Second Screen</string>
+</resources>
